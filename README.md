@@ -1,5 +1,6 @@
 # MaxSumUsingStack
 
+
 ###### In this assignment we have 3 stacks given and we have to find out maximum possible sum by popping out the elements of the stack
 
 ###### The idea is to compare the sum of each stack, if they are not same, remove the top element of the stack having the maximum sum.
@@ -47,3 +48,7 @@ Else remove the top element of the stack having the maximum sum among three of s
 ###### 3 2 1 2 
 
 ###### Max Probable sum----8
+
+
+
+>CSE 5A-22
